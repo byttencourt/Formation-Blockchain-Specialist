@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Formação Blockchain Specialist</h1>
-    <img src="https://assets.dio.me/hQK96sYuqykZ5qc9gD6QJd0n_cqlHCJyJp0TSgOPxBU/f:webp/h:120/q:80/L3RyYWNrcy82ZDcyYTMyZi0zNTYyLTRlZGQtYWMxNC03MWE3ZDZlYzUwYzIucG5n" width="400px">
+    <img src="https://assets.dio.me/hQK96sYuqykZ5qc9gD6QJd0n_cqlHCJyJp0TSgOPxBU/f:webp/h:120/q:80/L3RyYWNrcy82ZDcyYTMyZi0zNTYyLTRlZGQtYWMxNC03MWE3ZDZlYzUwYzIucG5n">
 </div>
 
 # Descrição
